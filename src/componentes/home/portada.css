@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Calibri:wght@400&display=swap');
+
+
+.portada-container {
+    justify-content: center;
+    align-items: center;
+    height: 10vh; /* Esto centra verticalmente el contenido */
+  }
+  
+.titulo {
+    font-size: 3rem; /* Tamaño del texto del título */
+    text-align: center; /* Asegura que el texto esté centrado */
+    color: #2c577a;
+    font-family: 'Calibri', sans-serif;
+  }
+.subtitulo {
+    font-size: 2rem; /* Tamaño del texto del título */
+    text-align: center; /* Asegura que el texto esté centrado */
+    color: #2c577a;
+    font-family: 'Calibri', sans-serif;
+  }
+  
+
+  
+  
